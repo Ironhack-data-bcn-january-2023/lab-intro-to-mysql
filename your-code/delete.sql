@@ -1,0 +1,1 @@
+DELETE FROM car where vim='DAM41UDN3CHU2WVF7';
